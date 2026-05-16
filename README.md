@@ -1,7 +1,4 @@
 # GFR Calculator (CKD-EPI)
 
-Python implementation of the CKD-EPI equation for estimating glomerular filtration rate.
+Python-based clinical tool for estimating kidney function using the CKD-EPI equation
 
-Input: age, sex, creatinine 
-
-Output: estimated GFR
