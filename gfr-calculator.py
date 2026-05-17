@@ -12,6 +12,7 @@ if sex not in ['m', 'f']:
 try:
     age = float(input('Enter age: '))
     k_ru = float(input('Serum creatinine (µmol/L): '))
+    
 except ValueError:
     print('Invalid input')
     exit()
